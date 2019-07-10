@@ -1,5 +1,5 @@
 {
-  "program": "00001",
+  "posts": [{"program": "00001",
   "partCount" : "10",
-  "toolchange" : "6"
+  "toolchange" : "6"}]
 }
